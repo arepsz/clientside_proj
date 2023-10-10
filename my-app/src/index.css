@@ -1,0 +1,194 @@
+.Title {
+    text-align: center;
+    font-size: 2.5rem;
+    border: 2px solid black;
+    border-radius: 25px 25px 25px 25px;
+    max-width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(163, 242, 216);
+}
+
+.ok-button {
+    text-align: center;
+    margin-left: 50%;
+    margin-top: 25px;
+}
+
+.function-container, .fixed-tests-container {
+    max-width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.2rem;
+}
+
+.fixed-tests-container, .custom-tests-container {
+    padding-top: 1%;
+    max-width: 50%;
+}
+
+.fixed-test-row-div {
+    display: flex;
+    font-size: 1.2rem;
+    padding: 10px;
+}
+
+.fixed-test-row-points {
+    margin-left: 30%;
+}
+
+.fixed-test-row-name {
+    width: 250px;
+    text-align: center;
+}
+
+.fixed-test-row-icon, .fixed-test-row-points {
+    width: 150px;
+    text-align: center;
+}
+
+.fixed-test-row-icon {
+    margin-left: 15%;
+    text-align: center;
+}
+
+.fixed-test-row-buttons {
+    margin-left: 15%;
+    display: flex;
+    width: 85px;
+    padding-left: 10px;
+}
+
+.fix-tests-sum {
+    float:right;
+    font-weight: bold;
+}
+
+.button-and-sum {
+    padding-top: 10px;
+}
+
+.runall-button {
+    height: 35px;
+    width: 75px;
+    font-weight: bold;
+    margin-left: 54%;
+}
+
+.runall-button-custom {
+    height: 35px;
+    width: 75px;
+    font-weight: bold;
+    margin-left: 41.5%;
+}
+
+.new-button {
+    height: 35px;
+    width: 75px;
+    font-weight: bold;
+    margin-left: 4.5%;
+}
+
+.test, .result, .action, .points {
+    font-weight: bold;
+    text-align: center;
+}
+
+.custom-test-row-buttons {
+    text-align: center;
+    margin-left: 8.5%;
+    display: flex;
+    width: 225px;
+    padding-left: 10px;
+}
+
+.custom-test-row-name {
+    width: 128px;
+    text-align: center;
+}
+
+.custom-test-row-button {
+    width: 75px;
+}
+
+.custom-test-row-points {
+    margin-left: 23%;
+}
+
+.custom-test-row-icon, .custom-test-row-points {
+    width: 50px;
+    text-align: center;
+}
+
+.custom-test-row-icon {
+    margin-left: 17%;
+    text-align: center;
+}
+
+.custom-ui {
+    text-align: justify;
+    margin: auto;
+    background: rgb(199, 199, 199);
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 20px 75px rgba(0, 0, 0, 0.13);
+}
+
+.button-add {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+svg {
+    height: 1.2em !important;
+}
+
+
+button {
+    border: 1px solid black;
+    border-radius: 10px 10px 10px 10px;
+    width: 70px;
+    background: rgb(163, 242, 216);
+    height: 25px;
+}
+
+button:hover {
+    background: rgb(234, 251, 246);
+}
+
+.blue {
+    background: rgb(66, 167, 245);
+}
+
+.blue:hover {
+    background: rgb(164, 211, 247);
+}
+
+.red {
+    background: rgb(237, 45, 77);
+}
+
+.red:hover {
+    background: rgb(240, 145, 161);
+}
+
+.custom-ui-button {
+    margin-top: 10px;
+}
+
+.custom-test-inputs {
+    display: grid;
+}
+
+.input-field {
+    margin-bottom: 15px;
+} 
+
+input {
+    border: none;
+    border-bottom: 2px solid #D1D1D4;
+    border-radius: 10px 10px 10px 10px;
+    background: white;
+}
