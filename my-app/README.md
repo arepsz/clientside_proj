@@ -1,3 +1,5 @@
+As it said in the description, this is a half-done project, so I'm actually missing like half of the points. I was working almost full time while doing this class, so I didn't have time to finish it.
+
 # Függvénytesztelő komponens készítése React-ben
 
 _Kliensoldali webprogramozás 1. beadandó 2022-23-2_
